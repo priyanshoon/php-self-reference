@@ -18,6 +18,10 @@
             <option>BTC</option>
             <option>ETH</option>
         </select>
+        <select id="country" name="country">
+            <option>INR</option>
+            <option>USD</option>
+        </select>
         <button type="submit"> Convert </button>
     </form>
 </body>
